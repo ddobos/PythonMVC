@@ -1,2 +1,2 @@
 gjango==3.0.6
-pillow==7.1.2
+pillow==8.2.0
